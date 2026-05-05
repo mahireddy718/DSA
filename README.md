@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mahireddy718/DSA/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/mahireddy718/DSA/tree/master/0392-is-subsequence) |
+| [0796-rotate-string](https://github.com/mahireddy718/DSA/tree/master/0796-rotate-string) |
 ## Stack
 |  |
 | ------- |
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/mahireddy718/DSA/tree/master/0061-rotate-list) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/mahireddy718/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->

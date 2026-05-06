@@ -89,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/mahireddy718/DSA/tree/master/0796-rotate-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/mahireddy718/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->

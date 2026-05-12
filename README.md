@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mahireddy718/DSA/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/mahireddy718/DSA/tree/master/0048-rotate-image) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mahireddy718/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/mahireddy718/DSA/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/mahireddy718/DSA/tree/master/0283-move-zeroes) |
 | [0733-flood-fill](https://github.com/mahireddy718/DSA/tree/master/0733-flood-fill) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mahireddy718/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/mahireddy718/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/mahireddy718/DSA/tree/master/0392-is-subsequence) |
 ## Math

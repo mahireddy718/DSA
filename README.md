@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/mahireddy718/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mahireddy718/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/mahireddy718/DSA/tree/master/0143-reorder-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/mahireddy718/DSA/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/mahireddy718/DSA/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/mahireddy718/DSA/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/mahireddy718/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mahireddy718/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/mahireddy718/DSA/tree/master/0392-is-subsequence) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/mahireddy718/DSA/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/mahireddy718/DSA/tree/master/0143-reorder-list) |
 ## String Matching
 |  |
 | ------- |
@@ -139,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/mahireddy718/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/mahireddy718/DSA/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/mahireddy718/DSA/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->

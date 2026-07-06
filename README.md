@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mahireddy718/DSA/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/mahireddy718/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/mahireddy718/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/mahireddy718/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mahireddy718/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mahireddy718/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/mahireddy718/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/mahireddy718/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mahireddy718/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/mahireddy718/DSA/tree/master/0143-reorder-list) |
 | [0735-asteroid-collision](https://github.com/mahireddy718/DSA/tree/master/0735-asteroid-collision) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/mahireddy718/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/mahireddy718/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/mahireddy718/DSA/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/mahireddy718/DSA/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/mahireddy718/DSA/tree/master/0283-move-zeroes) |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/mahireddy718/DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/mahireddy718/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahireddy718/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/mahireddy718/DSA/tree/master/0338-counting-bits) |
@@ -152,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/mahireddy718/DSA/tree/master/0735-asteroid-collision) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/mahireddy718/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

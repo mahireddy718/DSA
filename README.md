@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/mahireddy718/DSA/tree/master/0735-asteroid-collision) |
 | [0994-rotting-oranges](https://github.com/mahireddy718/DSA/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/mahireddy718/DSA/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahireddy718/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Matrix
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mahireddy718/DSA/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/mahireddy718/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/mahireddy718/DSA/tree/master/0994-rotting-oranges) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahireddy718/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## String
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/mahireddy718/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/mahireddy718/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/mahireddy718/DSA/tree/master/0287-find-the-duplicate-number) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahireddy718/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahireddy718/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/mahireddy718/DSA/tree/master/0506-relative-ranks) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahireddy718/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/mahireddy718/DSA/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mahireddy718/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/mahireddy718/DSA/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahireddy718/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Design
 |  |
 | ------- |

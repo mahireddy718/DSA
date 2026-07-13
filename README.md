@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mahireddy718/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/mahireddy718/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mahireddy718/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/mahireddy718/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/mahireddy718/DSA/tree/master/0506-relative-ranks) |
 | [0733-flood-fill](https://github.com/mahireddy718/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/mahireddy718/DSA/tree/master/0735-asteroid-collision) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mahireddy718/DSA/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/mahireddy718/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/mahireddy718/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/mahireddy718/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/mahireddy718/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Database
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/mahireddy718/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/mahireddy718/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahireddy718/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/mahireddy718/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Memoization
 |  |
 | ------- |
@@ -187,18 +190,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/mahireddy718/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/mahireddy718/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/mahireddy718/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahireddy718/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/mahireddy718/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/mahireddy718/DSA/tree/master/0506-relative-ranks) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahireddy718/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahireddy718/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/mahireddy718/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/mahireddy718/DSA/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mahireddy718/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/mahireddy718/DSA/tree/master/1046-last-stone-weight) |
@@ -219,4 +225,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahireddy718/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/mahireddy718/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/mahireddy718/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

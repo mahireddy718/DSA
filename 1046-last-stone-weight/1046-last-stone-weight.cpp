@@ -10,9 +10,6 @@ public:
             pq.pop();
             int top2=pq.top();
             pq.pop();
-            if(top1==top2){
-                continue;
-            }
             if(top1!=top2){
                 pq.push(top1-top2);
             }

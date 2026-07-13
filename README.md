@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/mahireddy718/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahireddy718/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/mahireddy718/DSA/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mahireddy718/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/mahireddy718/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mahireddy718/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0506-relative-ranks](https://github.com/mahireddy718/DSA/tree/master/0506-relative-ranks) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mahireddy718/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/mahireddy718/DSA/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/mahireddy718/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Memoization
 |  |
 | ------- |
@@ -185,10 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mahireddy718/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/mahireddy718/DSA/tree/master/0506-relative-ranks) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mahireddy718/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/mahireddy718/DSA/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mahireddy718/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
@@ -203,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mahireddy718/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/mahireddy718/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

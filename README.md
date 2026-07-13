@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mahireddy718/DSA/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/mahireddy718/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mahireddy718/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0506-relative-ranks](https://github.com/mahireddy718/DSA/tree/master/0506-relative-ranks) |
 | [0733-flood-fill](https://github.com/mahireddy718/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/mahireddy718/DSA/tree/master/0735-asteroid-collision) |
 | [0994-rotting-oranges](https://github.com/mahireddy718/DSA/tree/master/0994-rotting-oranges) |
@@ -179,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/mahireddy718/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/mahireddy718/DSA/tree/master/2351-first-letter-to-appear-twice) |
+## Sorting
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/mahireddy718/DSA/tree/master/0506-relative-ranks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/mahireddy718/DSA/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->

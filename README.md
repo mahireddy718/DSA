@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mahireddy718/DSA/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/mahireddy718/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/mahireddy718/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/mahireddy718/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/mahireddy718/DSA/tree/master/0371-sum-of-two-integers) |
 | [0973-k-closest-points-to-origin](https://github.com/mahireddy718/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Linked List
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mahireddy718/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/mahireddy718/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/mahireddy718/DSA/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/mahireddy718/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/mahireddy718/DSA/tree/master/0371-sum-of-two-integers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/mahireddy718/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [2351-first-letter-to-appear-twice](https://github.com/mahireddy718/DSA/tree/master/2351-first-letter-to-appear-twice) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/mahireddy718/DSA/tree/master/0143-reorder-list) |
+| [0342-power-of-four](https://github.com/mahireddy718/DSA/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |

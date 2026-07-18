@@ -1,8 +1,8 @@
 class MyHashSet {
-    bool arr[10000001];
+    vector<bool>arr;
 public:
     MyHashSet() {
-       memset(arr , false ,sizeof(arr));
+        arr.resize(1000000,false);
     }
     
     void add(int key) {

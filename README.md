@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mahireddy718/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/mahireddy718/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/mahireddy718/DSA/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/mahireddy718/DSA/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/mahireddy718/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/mahireddy718/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mahireddy718/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/mahireddy718/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/mahireddy718/DSA/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mahireddy718/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mahireddy718/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mahireddy718/DSA/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/mahireddy718/DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/mahireddy718/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/mahireddy718/DSA/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/mahireddy718/DSA/tree/master/0268-missing-number) |
@@ -302,5 +305,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/mahireddy718/DSA/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/mahireddy718/DSA/tree/master/0037-sudoku-solver) |
 | [0131-palindrome-partitioning](https://github.com/mahireddy718/DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->

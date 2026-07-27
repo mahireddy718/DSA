@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mahireddy718/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/mahireddy718/DSA/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/mahireddy718/DSA/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/mahireddy718/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/mahireddy718/DSA/tree/master/0547-number-of-provinces) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/mahireddy718/DSA/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/mahireddy718/DSA/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/mahireddy718/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0547-number-of-provinces](https://github.com/mahireddy718/DSA/tree/master/0547-number-of-provinces) |
@@ -129,12 +131,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mahireddy718/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/mahireddy718/DSA/tree/master/0100-same-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/mahireddy718/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mahireddy718/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mahireddy718/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/mahireddy718/DSA/tree/master/0100-same-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/mahireddy718/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mahireddy718/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Two Pointers

@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/mahireddy718/DSA/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/mahireddy718/DSA/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/mahireddy718/DSA/tree/master/0735-asteroid-collision) |
+| [0877-stone-game](https://github.com/mahireddy718/DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/mahireddy718/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mahireddy718/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/mahireddy718/DSA/tree/master/0994-rotting-oranges) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/mahireddy718/DSA/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/mahireddy718/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/mahireddy718/DSA/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/mahireddy718/DSA/tree/master/0877-stone-game) |
 ## Math
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mahireddy718/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/mahireddy718/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/mahireddy718/DSA/tree/master/0371-sum-of-two-integers) |
+| [0877-stone-game](https://github.com/mahireddy718/DSA/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/mahireddy718/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mahireddy718/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/mahireddy718/DSA/tree/master/3536-maximum-product-of-two-digits) |
@@ -329,4 +332,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mahireddy718/DSA/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/mahireddy718/DSA/tree/master/0037-sudoku-solver) |
 | [0131-palindrome-partitioning](https://github.com/mahireddy718/DSA/tree/master/0131-palindrome-partitioning) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mahireddy718/DSA/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mahireddy718/DSA/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mahireddy718/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mahireddy718/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/mahireddy718/DSA/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/mahireddy718/DSA/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/mahireddy718/DSA/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/mahireddy718/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mahireddy718/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/mahireddy718/DSA/tree/master/0392-is-subsequence) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/mahireddy718/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/mahireddy718/DSA/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/mahireddy718/DSA/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/mahireddy718/DSA/tree/master/0148-sort-list) |
 | [0705-design-hashset](https://github.com/mahireddy718/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/mahireddy718/DSA/tree/master/0706-design-hashmap) |
 ## String Matching
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mahireddy718/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/mahireddy718/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/mahireddy718/DSA/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/mahireddy718/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahireddy718/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/mahireddy718/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/mahireddy718/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahireddy718/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/mahireddy718/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mahireddy718/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mahireddy718/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/mahireddy718/DSA/tree/master/0148-sort-list) |
 ## Backtracking
 |  |
 | ------- |

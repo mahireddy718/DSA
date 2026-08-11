@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahireddy718/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mahireddy718/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mahireddy718/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mahireddy718/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/mahireddy718/DSA/tree/master/0706-design-hashmap) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/mahireddy718/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/mahireddy718/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mahireddy718/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Database
 |  |
 | ------- |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/mahireddy718/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahireddy718/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mahireddy718/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mahireddy718/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/mahireddy718/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |

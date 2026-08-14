@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/mahireddy718/DSA/tree/master/0392-is-subsequence) |
 | [0796-rotate-string](https://github.com/mahireddy718/DSA/tree/master/0796-rotate-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/mahireddy718/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mahireddy718/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/mahireddy718/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/mahireddy718/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mahireddy718/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mahireddy718/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Database
 |  |
 | ------- |
@@ -354,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/mahireddy718/DSA/tree/master/0877-stone-game) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/mahireddy718/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->

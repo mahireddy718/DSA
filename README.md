@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mahireddy718/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mahireddy718/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahireddy718/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mahireddy718/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0200-number-of-islands](https://github.com/mahireddy718/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mahireddy718/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/mahireddy718/DSA/tree/master/0268-missing-number) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mahireddy718/DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/mahireddy718/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahireddy718/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mahireddy718/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/mahireddy718/DSA/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/mahireddy718/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/mahireddy718/DSA/tree/master/0392-is-subsequence) |
@@ -360,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/mahireddy718/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mahireddy718/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->

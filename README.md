@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mahireddy718/DSA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/mahireddy718/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/mahireddy718/DSA/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/mahireddy718/DSA/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/mahireddy718/DSA/tree/master/0735-asteroid-collision) |
 ## Hash Table
 |  |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/mahireddy718/DSA/tree/master/0155-min-stack) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mahireddy718/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/mahireddy718/DSA/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/mahireddy718/DSA/tree/master/0706-design-hashmap) |

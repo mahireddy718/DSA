@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/mahireddy718/DSA/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/mahireddy718/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/mahireddy718/DSA/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/mahireddy718/DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/mahireddy718/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/mahireddy718/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahireddy718/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/mahireddy718/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mahireddy718/DSA/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/mahireddy718/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/mahireddy718/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahireddy718/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mahireddy718/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/mahireddy718/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mahireddy718/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/mahireddy718/DSA/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->

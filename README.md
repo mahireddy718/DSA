@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/mahireddy718/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/mahireddy718/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/mahireddy718/DSA/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/mahireddy718/DSA/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/mahireddy718/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/mahireddy718/DSA/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/mahireddy718/DSA/tree/master/0283-move-zeroes) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mahireddy718/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/mahireddy718/DSA/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/mahireddy718/DSA/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/mahireddy718/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/mahireddy718/DSA/tree/master/0148-sort-list) |
 | [0705-design-hashset](https://github.com/mahireddy718/DSA/tree/master/0705-design-hashset) |

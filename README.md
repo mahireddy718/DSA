@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mahireddy718/DSA/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/mahireddy718/DSA/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/mahireddy718/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0202-happy-number](https://github.com/mahireddy718/DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/mahireddy718/DSA/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/mahireddy718/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/mahireddy718/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/mahireddy718/DSA/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/mahireddy718/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/mahireddy718/DSA/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/mahireddy718/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/mahireddy718/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mahireddy718/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/mahireddy718/DSA/tree/master/0344-reverse-string) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mahireddy718/DSA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/mahireddy718/DSA/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/mahireddy718/DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/mahireddy718/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/mahireddy718/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/mahireddy718/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/mahireddy718/DSA/tree/master/0371-sum-of-two-integers) |
@@ -394,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mahireddy718/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/mahireddy718/DSA/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/mahireddy718/DSA/tree/master/0621-task-scheduler) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/mahireddy718/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

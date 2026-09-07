@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mahireddy718/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/mahireddy718/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/mahireddy718/DSA/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/mahireddy718/DSA/tree/master/0131-palindrome-partitioning) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mahireddy718/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/mahireddy718/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/mahireddy718/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/mahireddy718/DSA/tree/master/0061-rotate-list) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mahireddy718/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/mahireddy718/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mahireddy718/DSA/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/mahireddy718/DSA/tree/master/0055-jump-game) |
@@ -406,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mahireddy718/DSA/tree/master/0202-happy-number) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/mahireddy718/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

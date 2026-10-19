@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/mahireddy718/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mahireddy718/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/mahireddy718/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mahireddy718/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/mahireddy718/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mahireddy718/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/mahireddy718/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -448,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/mahireddy718/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mahireddy718/DSA/tree/master/0032-longest-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mahireddy718/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
